@@ -1,17 +1,6 @@
-If you find this useful, give it a star
+**If you find this useful, give it a** &#11088;
 
-# Inspect-Element-For-Android-IOS
-
-## Features
-
-* [Console](doc/TOOL_API.md#console): Display JavaScript logs.
-* [Elements](doc/TOOL_API.md#elements): Check dom state.
-* [Network](doc/TOOL_API.md#network): Show requests status.
-* [Resource](/doc/TOOL_API.md#resources): Show localStorage, cookie information.
-* [Info](doc/TOOL_API.md#info): Show url, user agent info.
-* [Snippets](doc/TOOL_API.md#snippets): Include snippets used most often.
-* [Sources](doc/TOOL_API.md#sources): Html, js, css source viewer.
-
+# Inspect Element For Android/IOS 
 
 ## Follow the Steps to enable the Developer tool in your mobile's browser
 
@@ -70,7 +59,7 @@ javascript:(function () { var script = document.createElement('script'); script.
 <br><br>
 
 **That's it. You are good to go now.**
-<br><hr>
+<br>
  
 # Do you want to execute some script on Console?
 
@@ -93,8 +82,7 @@ console.log(((5 & 1) != 0) ? "Odd" : "Even");
 **3. After execution**<br>
 
 <img src="./Images/12.jpg" width="60%" height="60%">
-<br><br>
-<hr>
+<br>
 
 # Want to play more around it?
 
@@ -115,7 +103,7 @@ console.log(((5 & 1) != 0) ? "Odd" : "Even");
 <img src="./Images/15.jpg" width="60%" height="60%">
 <br><br>
 
-**2. Display**<br><br>
+**2. Display**<br>
 
 * **Resize the display**<br>
 
@@ -125,12 +113,22 @@ console.log(((5 & 1) != 0) ? "Odd" : "Even");
 * **After changing display size**<br>
 
 <img src="./Images/17.jpg" width="60%" height="60%">
-<br><br>
-
+<br>
 
 You can play around with more stuffs like these on your own. Give it a try
 
-**Credits**
+## Features
 
+* [Console](doc/TOOL_API.md#console): Display JavaScript logs.
+* [Elements](doc/TOOL_API.md#elements): Check dom state.
+* [Network](doc/TOOL_API.md#network): Show requests status.
+* [Resource](/doc/TOOL_API.md#resources): Show localStorage, cookie information.
+* [Info](doc/TOOL_API.md#info): Show url, user agent info.
+* [Snippets](doc/TOOL_API.md#snippets): Include snippets used most often.
+* [Sources](doc/TOOL_API.md#sources): Html, js, css source viewer.
 
+## Credits 
+[Eruda](https://github.com/liriliri/eruda)<br>
+Eruda is an open source javascript package publicly hosted on github.
 
+**If you find this useful, give it a** &#11088;
