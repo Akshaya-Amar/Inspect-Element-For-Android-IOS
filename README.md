@@ -122,13 +122,13 @@ You can play around with more stuffs like these on your own. Give it a try
 
 ## Features
 
-* [Console](doc/TOOL_API.md#console): Display JavaScript logs.
-* [Elements](doc/TOOL_API.md#elements): Check dom state.
-* [Network](doc/TOOL_API.md#network): Show requests status.
-* [Resource](/doc/TOOL_API.md#resources): Show localStorage, cookie information.
-* [Info](doc/TOOL_API.md#info): Show url, user agent info.
-* [Snippets](doc/TOOL_API.md#snippets): Include snippets used most often.
-* [Sources](doc/TOOL_API.md#sources): Html, js, css source viewer.
+* [Console](https://github.com/liriliri/eruda/tree/master/doc/TOOL_API.md#console): Display JavaScript logs.
+* [Elements](https://github.com/liriliri/eruda/tree/master/doc/TOOL_API.md#elements): Check dom state.
+* [Network](https://github.com/liriliri/eruda/tree/master/doc/TOOL_API.md#network): Show requests status.
+* [Resource](https://github.com/liriliri/eruda/tree/master/doc/TOOL_API.md#resources): Show localStorage, cookie information.
+* [Info](https://github.com/liriliri/eruda/tree/master/doc/TOOL_API.md#info): Show url, user agent info.
+* [Snippets](https://github.com/liriliri/eruda/tree/master/doc/TOOL_API.md#snippets): Include snippets used most often.
+* [Sources](https://github.com/liriliri/eruda/tree/master/doc/TOOL_API.md#sources): Html, js, css source viewer.
 
 ## Credits 
 [Eruda](https://github.com/liriliri/eruda)<br>
