@@ -87,7 +87,7 @@ console.log(((5 & 1) != 0) ? "Odd" : "Even");
 <img src="./Images/12.jpg" width="60%" height="60%">
 <br>
 
-# Want to play more around it?
+# Want to play around it more?
 
 **1. Theme**<br>
 
@@ -133,5 +133,3 @@ You can play around with more stuffs like these on your own. Give it a try
 ## Credits 
 [Eruda](https://github.com/liriliri/eruda)<br>
 Eruda is an open source javascript package publicly hosted on github.
-
-**If you find this useful, give it a** &#11088;
